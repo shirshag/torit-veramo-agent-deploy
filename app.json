@@ -12,7 +12,7 @@
     "env": {
       "BASE_URL": {
         "description": "The url for which your DID will be based on",
-        "value": "https://APP_NAME.herokuapp.com"
+        "value": "https://torit-did-agent.herokuapp.com"
       },
       "API_KEY": {
         "description": "A secret key for verifying requests",
